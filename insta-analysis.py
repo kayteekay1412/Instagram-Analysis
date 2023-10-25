@@ -2,7 +2,7 @@ import instaloader
 import pandas as pd
 import matplotlib.pyplot as plt
 
-profile_username = "then0t0ri0usvip" 
+profile_username = "charles_leclerc" 
 
 captions = []
 likes = []
